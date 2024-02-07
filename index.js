@@ -56,9 +56,6 @@ document.addEventListener("keydown", function(event){
             audioToPlay.play();
             break;
         default:
-            
-            break;
-
             break;
     }
 })
