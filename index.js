@@ -56,8 +56,7 @@ document.addEventListener("keydown", function(event){
             audioToPlay.play();
             break;
         default:
-            audioToPlay=new Audio("crash.mp3");
-            audioToPlay.play();
+            
             break;
 
             break;
